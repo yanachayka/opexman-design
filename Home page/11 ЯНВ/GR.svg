@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="670px" height="551px" viewBox="0 0 670 551" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>-g-этапы</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="47.4170304%" y1="0%" x2="47.4170297%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A99F8" offset="0%"></stop>
+            <stop stop-color="#48D0F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Site-for-sales" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-(site-for-sales)" transform="translate(-631.000000, -1207.000000)">
+            <g id="-g-этапы" transform="translate(595.000000, 1207.000000)">
+                <text id="Оговариваем-условия" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal" letter-spacing="0.154761896" fill="#333333">
+                    <tspan x="461" y="166">Оговариваем условия </tspan>
+                    <tspan x="461" y="185">и заключаем контракт</tspan>
+                </text>
+                <text id="Проводим-обучение-пе" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal" letter-spacing="0.154761896" fill="#333333">
+                    <tspan x="461" y="378">Проводим обучение персонала </tspan>
+                    <tspan x="461" y="397">по использованию системы</tspan>
+                </text>
+                <text id="Настраиваем-для-Вас" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal" letter-spacing="0.154761896" fill="#333333">
+                    <tspan x="100.691524" y="268">Настраиваем для Вас </tspan>
+                    <tspan x="35.6401907" y="287">системуна отдельном домене</tspan>
+                </text>
+                <text id="Заполняете-заявку-на" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal" letter-spacing="0.154761896" fill="#333333">
+                    <tspan x="120.761048" y="57">Заполняете заявку </tspan>
+                    <tspan x="201.881905" y="76">на сайте</tspan>
+                </text>
+                <text id="Консультируем-в-проц" font-family="Rubik-Regular, Rubik" font-size="16" font-weight="normal" letter-spacing="0.154761896" fill="#333333">
+                    <tspan x="149.812095" y="480">Консультируем </tspan>
+                    <tspan x="120.953048" y="499">в процессе работы</tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="26" font-weight="normal" letter-spacing="0.306576252" fill="#70ADF5">
+                    <tspan x="413" y="170"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="26" font-weight="normal" letter-spacing="0.306576252" fill="#70ADF5">
+                    <tspan x="289" y="272"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="26" font-weight="normal" letter-spacing="0.306576252" fill="#70ADF5">
+                    <tspan x="289" y="61"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="26" font-weight="normal" letter-spacing="0.306576252" fill="#70ADF5">
+                    <tspan x="413" y="382"></tspan>
+                </text>
+                <text id="" font-family="FontAwesome" font-size="26" font-weight="normal" letter-spacing="0.306576252" fill="#70ADF5">
+                    <tspan x="290" y="484"></tspan>
+                </text>
+                <text id="ЭТАП-2" font-family="Rubik-Regular, Rubik" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="461" y="145">ЭТАП 2</tspan>
+                </text>
+                <text id="ЭТАП-4" font-family="Rubik-Regular, Rubik" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="461" y="356">ЭТАП 4</tspan>
+                </text>
+                <text id="ЭТАП-5" font-family="Rubik-Regular, Rubik" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="228" y="459">ЭТАП 5</tspan>
+                </text>
+                <text id="ЭТАП-3" font-family="Rubik-Regular, Rubik" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="228" y="247">ЭТАП 3</tspan>
+                </text>
+                <text id="ЭТАП-1" font-family="Rubik-Regular, Rubik" font-size="12" font-weight="normal" fill="#999999">
+                    <tspan x="228" y="36">ЭТАП 1</tspan>
+                </text>
+                <path d="M365.5,1.5 L365.5,531.93567" id="Path" stroke="#70ADF5" stroke-width="4" fill="url(#linearGradient-1)"></path>
+                <g id="Group-3" transform="translate(356.000000, 0.000000)">
+                    <circle id="Oval-3-Copy-2" stroke="#FFFFFF" stroke-width="5" fill="#70ADF5" cx="9.5" cy="158.5" r="5.5"></circle>
+                    <circle id="Oval-3-Copy-2" stroke="#FFFFFF" stroke-width="5" fill="#70ADF5" cx="9.5" cy="264.5" r="5.5"></circle>
+                    <circle id="Oval-3-Copy-2" stroke="#FFFFFF" stroke-width="5" fill="#70ADF5" cx="9.5" cy="52.5" r="5.5"></circle>
+                    <circle id="Oval-3-Copy-2" stroke="#FFFFFF" stroke-width="5" fill="#70ADF5" cx="9.5" cy="370.5" r="5.5"></circle>
+                    <circle id="Oval-3-Copy-2" stroke="#FFFFFF" stroke-width="5" fill="#70ADF5" cx="9.5" cy="476.5" r="5.5"></circle>
+                    <circle id="Oval-3-Copy-3" fill="#70ADF5" cx="10" cy="541" r="10"></circle>
+                    <path d="M3.5,1.5 L15,1.5" id="Line-3" stroke="#3A99F8" stroke-width="2" stroke-linecap="square"></path>
+                    <text id="" font-family="FontAwesome" font-size="12" font-weight="normal" letter-spacing="0.141496688" fill="#FFFFFF">
+                        <tspan x="4" y="545"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
